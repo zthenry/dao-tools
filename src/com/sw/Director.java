@@ -111,6 +111,8 @@ public class Director {
 		List<FieldDefination> list = new ArrayList<FieldDefination>();
 		while (resultSet.next()) {
 			FieldDefination fieldDefination = new FieldDefination();
+      //字段Comment
+			String remarks = resultSet.getString("REMARKS");   
 			String name = resultSet.getString("COLUMN_NAME");
 			fieldDefination.setAutoIncreate(resultSet.getBoolean("IS_AUTOINCREMENT"));
 			fieldDefination.setFieldCode(name);
@@ -118,6 +120,7 @@ public class Director {
 			String type = getFieldType( resultSet );
 			fieldDefination.setFieldType(type);
 			fieldDefination.setIsKey(false);
+			fieldDefination.setFieldComment(remarks);
 			for (String key : keyList) {
 				//如果当前字段是Key
 				if(key.equals(name))
