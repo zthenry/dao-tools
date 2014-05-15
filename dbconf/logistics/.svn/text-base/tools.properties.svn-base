@@ -1,0 +1,4 @@
+packagePath = com.niux.crm.dao.crmdb.base
+exportPath = D:/temp
+pageClass=com.niux.crm.core.common.Pagination
+supportpage=true

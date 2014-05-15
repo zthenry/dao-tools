@@ -1,0 +1,5 @@
+packagePath = com.niux.crm.dao.crmv3db.dao
+exportPath = D:/temp
+pageClass=com.niux.crm.core.common.Pagination
+supportpage=true
+catalog="nuomi_niux_crm"

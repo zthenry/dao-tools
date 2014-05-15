@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/tool
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/tool/Tools.java
+END
+ISysCharset.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/tool/ISysCharset.java
+END
+MessageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/tool/MessageUtil.java
+END
+XmlCreater.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/tool/XmlCreater.java
+END
+StrOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/tool/StrOper.java
+END

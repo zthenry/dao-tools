@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/metadata
+END
+DataEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/metadata/DataEngine.java
+END
+FieldDefination.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/metadata/FieldDefination.java
+END
+FilterDefination.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/metadata/FilterDefination.java
+END
+EntityDefination.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/metadata/EntityDefination.java
+END

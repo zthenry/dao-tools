@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/nuomi/!svn/ver/34974/niux/trunk/dao-tools/dbconf/ssoconf
+END
+tableName.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/nuomi/!svn/ver/34974/niux/trunk/dao-tools/dbconf/ssoconf/tableName.properties
+END
+mapping.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/nuomi/!svn/ver/34974/niux/trunk/dao-tools/dbconf/ssoconf/mapping.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/nuomi/!svn/ver/34974/niux/trunk/dao-tools/dbconf/ssoconf/applicationContext.xml
+END
+tools.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/nuomi/!svn/ver/34974/niux/trunk/dao-tools/dbconf/ssoconf/tools.properties
+END

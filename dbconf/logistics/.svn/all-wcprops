@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/dbconf/logistics
+END
+tableName.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/dbconf/logistics/tableName.properties
+END
+mapping.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/dbconf/logistics/mapping.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/dbconf/logistics/applicationContext.xml
+END
+tools.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/dbconf/logistics/tools.properties
+END

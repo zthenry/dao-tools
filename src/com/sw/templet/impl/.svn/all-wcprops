@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/nuomi/!svn/ver/50686/niux/trunk/dao-tools/src/com/sw/templet/impl
+END
+DaoTempletImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/nuomi/!svn/ver/50686/niux/trunk/dao-tools/src/com/sw/templet/impl/DaoTempletImpl.java
+END
+EntityTempletImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/templet/impl/EntityTempletImpl.java
+END
+SQLTempletImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/nuomi/!svn/ver/32943/niux/trunk/dao-tools/src/com/sw/templet/impl/SQLTempletImpl.java
+END
